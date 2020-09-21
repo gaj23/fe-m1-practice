@@ -1,6 +1,6 @@
 # Day 1: HTML and CSS
 
-## Open your local copy of fe-m1-practice in Atom
+## Open your local copy of fe-m1-practice in Atom -- __done__
 
 1. Using your terminal, open the local copy of this repo. To do this, enter these commands into your terminal:
 
@@ -20,11 +20,11 @@ atom .
 
 This will open the day_1 directory in Atom. You should be able to see the directory and its contents in the file explorer on the left side of your Atom window.
 
-## Add a file to track your day one progress
+## Add a file to track your day one progress -- __done__
 
 In the day_1 directory, create another file called `day1-exercises.md`. This is where you'll put your answers to the following questions and a link to the CodePen you create below.
 
-## Create a [CodePen](https://codepen.io) Account
+## Create a [CodePen](https://codepen.io) Account -- __done__
 
 CodePen is a website where you can quickly create small projects using HTML, CSS, and JavaScript. It is lightweight, and you can see the output of your code right away!
 
