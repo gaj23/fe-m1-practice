@@ -30,7 +30,7 @@ CodePen is a website where you can quickly create small projects using HTML, CSS
 
 In order to save your CodePen projects, you need to have an account. It's free - you just have to sign up!
 
-## Read Chapters 1 and 2 on Structure and Text from [HTML and CSS: Design and Build Websites](http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189/ref=sr_1_3?ie=UTF8&qid=1459879147&sr=8-3&keywords=duckett)
+## Read Chapters 1 and 2 on Structure and Text from [HTML and CSS: Design and Build Websites](http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189/ref=sr_1_3?ie=UTF8&qid=1459879147&sr=8-3&keywords=duckett) __done__
 
 Open the `day1-exercises.md` file you created earlier, and answer these questions about the reading in that file:
 
@@ -59,7 +59,7 @@ Some resources about using CodePen:
 *   Step through [this interactive walkthrough](https://codepen.io/pen/tour/welcome/start) to familiarize yourself with using CodePen.
 *   If you're stuck on what a basic HTML structure looks like, use page 58 in [HTML and CSS: Design and Build Websites](http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189/ref=sr_1_3?ie=UTF8&qid=1459879147&sr=8-3&keywords=duckett) to help get you started.
 
-## Save your work in Git
+## Save your work in Git __done__
 When you are finished with all of the day_1 activities, follow these steps in order to save your work to your local git repository.
 
 1. Make sure you are in your `day_1` directory. When you enter `ls` in your terminal, you should see the README.md and day1-exercises.md files.
@@ -102,7 +102,7 @@ nothing to commit, working tree clean
 Congratulations! You just saved your work to Git! If `git status` is showing any files, add them with `git add <file name>` and commit them with `git commit -m "Add day 1"`.
 
 
-## Push to Github
+## Push to Github __done__
 
 You've saved your work to git on your **local** machine, but it is not yet accessible through your **remote** Github repository. Updating our **remote** Github repository with our **local** changes is called **pushing**. Push your code with the following command:
 
