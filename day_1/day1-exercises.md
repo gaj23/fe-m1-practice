@@ -1,3 +1,8 @@
+#Day 1
+****
+
+## Structure & Text
+
 1.  On a website, what is the purpose of HTML code?
 > HTML provides structure for a readability. Additionally, it allows visitors to move from one page to another with links included. Then the text can be further annotated so create a layered and more meaningful document.
 
@@ -39,6 +44,8 @@
 > 1. `nav` creates a specific space for navigation to exist.
 > 2. `aside` creates either a space for information relation, but nonessential for the article it's nested in or the entire page it belongs.
 > 3. `<figure>` & `<figcaption>` create a container for media (images, videos, graphs) or other supportive materials (text, code samples) to be placed into a page while also including a descriptor that will remain in contact with the `<figure>` it is associated with.
+
+****
 
 
 [My day-1 pen](https://codepen.io/gaj23-the-sasster/pen/eYZbBdj)

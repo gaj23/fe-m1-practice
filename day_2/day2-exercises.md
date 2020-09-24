@@ -1,3 +1,8 @@
+# Day 2
+****
+
+##Lists & Links
+
 1.  There are three main types of lists in HTML: ordered, unordered, and definition. What are their differences?
 > Ordered lists use numbers to imply a specific ordering of steps, portions, or rankings. Unordered lists use bullet points that don't imply a specific or necessary order. Definition lists create a structured space where rather that the `<li>` tag, the term is encased in the `<dt>` tag and the definition of said term is encased in the `<dd>` tag.
 
@@ -14,7 +19,9 @@
 > By assigning a portion of the page an `id` attribute, we can then assign the `href` attribute of an `<a>` element to `#idUsed`.
 >`<h1 id=#top>Top Of page</h1> ... ... ... <a href="#top">return to top</a>`
 
+****
 
+##CSS, Color, & Text
 
 1.  What is the purpose of CSS?
 > Allows you to manipulate the appearance of specific page contents.
@@ -54,5 +61,7 @@
 
 9.  When specifying font-size, what are the main three units used?
 > Pixels (1px), percentiles (1%), or Ems (1em) can be used to specify a font-size. Pixels are the most precise. Percentiles are scaled to default text-size of the browser page as well are ems.
+
+****
 
 [My updated CodePen](https://codepen.io/gaj23-the-sasster/full/eYZbBdj)
