@@ -1,10 +1,10 @@
 # Day 3: HTML and CSS
 
-## Open your local copy of fe-m1-practice in Atom
+## Open your local copy of fe-m1-practice in Atom __done__
 
 In the day_3 directory, create another file called `day3-exercises.md`. This is where you'll put your answers to the following questions.
 
-## Read Chapter 7 on Forms from [HTML and CSS: Design and Build Websites](http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189/ref=sr_1_3?ie=UTF8&qid=1459879147&sr=8-3&keywords=duckett)
+## Read Chapter 7 on Forms from [HTML and CSS: Design and Build Websites](http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189/ref=sr_1_3?ie=UTF8&qid=1459879147&sr=8-3&keywords=duckett) __done__
 
 Answer these questions about the reading in your `day3-exercises.md` file:
 
@@ -20,7 +20,7 @@ Within the page you created in CodePen on Day 1, add a form that could be used t
 *   Dropdowns for the genre of each artist.
 *   Submit button.
 
-## Read Chapters 13 and 15 on Boxes and Layout from [HTML and CSS: Design and Build Websites](http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189/ref=sr_1_3?ie=UTF8&qid=1459879147&sr=8-3&keywords=duckett)
+## Read Chapters 13 and 15 on Boxes and Layout from [HTML and CSS: Design and Build Websites](http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189/ref=sr_1_3?ie=UTF8&qid=1459879147&sr=8-3&keywords=duckett) __done__
 
 Answer these questions about the reading in your `day3-exercises.md` file:
 
@@ -35,6 +35,6 @@ Continue working with the page you created in CodePen, add some styling with box
 *   Add a border and background color to your headings. Pay attention to the contrast between the text and background colors.
 *   Divide your paragraph text into two vertical columns.
 
-## Save your day 3 file in git and push to GitHub
+## Save your day 3 file in git and push to GitHub __done__
 
 Using the commit message: `Add day 3`, add, commit, and push your changes to GitHub!
