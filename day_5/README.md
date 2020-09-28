@@ -4,7 +4,7 @@
 
 In the day_5 directory, create another file called `day5-exercises.md`. This is where you'll put your answers to the following questions.
 
-## Read Chapter 2 (Statements, Variables, Data Types, & Arrays) from [JavaScript & jQuery: Interactive Front-End Web Development](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/ref=sr_1_5?ie=UTF8&qid=1541447422&sr=8-5&keywords=duckett)
+## Read Chapter 2 (Statements, Variables, Data Types, & Arrays) from [JavaScript & jQuery: Interactive Front-End Web Development](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/ref=sr_1_5?ie=UTF8&qid=1541447422&sr=8-5&keywords=duckett) __done__
 
 Answer these questions about the reading in your `day5-exercises.md` file:
 
@@ -21,21 +21,23 @@ Pro tip: If you want to write more than one line of code in the console before r
 
 For each task listed below, enter it in the console:
 
-*   `25`
-*   `"this is my string"` (notice the output's color difference between a number and a string)
-*   `var myNewString = "Hello Turing!";`
-*   `myNewString` Before you hit Enter, what do you expect to see in the console?
-*   `var myNum = 9;`
-*   `myNum` Before you hit Enter, what do you expect to see in the console?
-*   `var anotherString = "How are You?"`
-*   `"Connect" + " " + "these" + " " + "strings."` What happened? This is called string concatenation. Notice the strings with spaces.
-*   `myNewString + anotherString` This is also string concatenation using variables.
-*   `5 > 3` returns a boolean value of true. How could you change this expression to return false?
-*   `"2" === 2` and `"2" == 2` Why does one of those expressions return true and one return false?
-*   `if (8 < 9) {console.log("Hey!")}` Before you enter this code in the console, what do you think will happen? Will it log Hey to the console?
+*   `25` *ok*  
+*   `"this is my string"` (notice the output's color difference between a number and a string) *ok*  
+*   `var myNewString = "Hello Turing!";` *ok*  
+*   `myNewString` Before you hit Enter, what do you expect to see in the console? *ok, should print Hello Turing, it does.*
+*   `var myNum = 9;` *ok*  
+*   `myNum` Before you hit Enter, what do you expect to see in the console? *should print 9, it does. ok*  
+*   `var anotherString = "How are You?"` *ok*  
+*   `"Connect" + " " + "these" + " " + "strings."` What happened? This is called string concatenation. Notice the strings with spaces. *If spaces are no included inside of the quotation marks where appropriate, then they do not manifest. ok*  
+*   `myNewString + anotherString` This is also string concatenation using variables. *ok*  
+*   `5 > 3` returns a boolean value of true. How could you change this expression to return false? *set 5 less than 3 (5 < 3) to return a boolean value of false*  
+*   `"2" === 2` and `"2" == 2` Why does one of those expressions return true and one return false? *When using two equal signs (==), it evaluates if the value is the same. Using three equal sings (===) checks if the value and the data type are the same. The value of 2 does equal two but the data type of "2" (string) and 2 (number/integer) are not the name.*  
+*   `if (8 < 9) {console.log("Hey!")}` Before you enter this code in the console, what do you think will happen? Will it log Hey to the console? *Because the boolean expression of 8 < 9 will evaluate as true, "Hey!" will be printed to the console.*  
 *   Write an if/else statement where the code in the `else` block is executed. For example: `if (3 < 1){console.log("if block")} else {console.log("else block")}`
-*   Use the console to solve [these problems](https://s3.amazonaws.com/TrainingNerd/JavaScriptForBeginners/exercises/variables.html).
+> `if ("3" === 3) {console.log("I'm shocked!")} else {console.log("I knew it was too good to be true!")}`  
 
-## Save your day 5 file in git and push to GitHub
+*   Use the console to solve [these problems](https://s3.amazonaws.com/TrainingNerd/JavaScriptForBeginners/exercises/variables.html). *see problemSolving.js*  
+
+## Save your day 5 file in git and push to GitHub __done__
 
 Using the commit message: `Add day 5`, add, commit, and push your changes to GitHub!
