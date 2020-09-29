@@ -13,12 +13,12 @@ In the day_7 directory, create a file called `day7-exercises.md`. This is where 
 
 ## Make A New Webpage Using Atom!
 
-Instead of using CodePen to create this webpage, let's use Atom - our text editor. Within this directory, create another directory called `my_website`.
+Instead of using CodePen to create this webpage, let's use Atom - our text editor. Within this directory, create another directory called `my_website`. *done*
 
 Within the `my_website` directory, create two files:
 
-*   `index.html` to hold your HTML code
-*   `style.css` to hold your CSS code
+*   `index.html` to hold your HTML code *done*
+*   `style.css` to hold your CSS code *done*
 
 Your site should contain (but is not limited to):
 
