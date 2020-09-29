@@ -1,10 +1,10 @@
 ## Day 6: JavaScript
 
-## Open your local copy of fe-m1-practice in Atom
+## Open your local copy of fe-m1-practice in Atom __done__
 
 In the day_6 directory, create another file called `day6-exercises.md`. This is where you'll put your answers to the following questions.
 
-## Read part of Chapter 3 (Functions & Scope), pages 85-99, from [JavaScript & jQuery: Interactive Front-End Web Development](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/ref=sr_1_5?ie=UTF8&qid=1541447422&sr=8-5&keywords=duckett)
+## Read part of Chapter 3 (Functions & Scope), pages 85-99, from [JavaScript & jQuery: Interactive Front-End Web Development](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/ref=sr_1_5?ie=UTF8&qid=1541447422&sr=8-5&keywords=duckett) __done__
 
 Answer these questions about the reading in your `day6-exercises.md` file:
 
